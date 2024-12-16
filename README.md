@@ -1,6 +1,6 @@
 # EmoMeta: A Chinese Multimodal Metaphor Dataset and Novel Method for Emotion Classification
 
-We release our Dataset, a multimodal metaphorical emotion dataset in chinese consisting of 5000 pairs of text and images, with annotations indicating the presence of metaphors, target domain, source domain and emotion categories. In addition we propose a  novel methodology  employing chain-of-thought prompt for source domain and target domain of metaphor.
+We release our Dataset, a multimodal metaphorical emotion dataset in chinese consisting of 5000 pairs of text and images, with annotations indicating the presence of metaphors, target domain, source domain and emotion categories.
 Our dataset is presented in the DataALL.xlsx file.
 
 ## Example Instance
