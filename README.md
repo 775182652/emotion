@@ -45,10 +45,7 @@ In this example, words are arranged to form a hand giving a thumbs-up, expressin
 
 * The images with numbers from 9981.jpg to 11377.jpg are from the IFlytek Advertising Image Classification Competition, released in 2021, without corresponding URL are provided in file naming dataF.
 
-## Run the code
-* LLAVAcaption.py is responsible for extracting captions from images.
-* LLAVACot_1_cn.py is responsible for getting Chain of thought prompt result.
-* code.py is the completes the training and testing process
+
 
 
 
